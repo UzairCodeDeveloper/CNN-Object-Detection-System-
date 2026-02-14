@@ -100,7 +100,7 @@ pip install numpy matplotlib pillow
 
 1.  Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone URL
 
 2.  Open the notebook:
 
@@ -135,4 +135,4 @@ This notebook helps build intuition about:
 ## 👨‍💻 Author
 
 **Muhammad Uzair Zafar**\
-Computer Science \| Deep Learning & AI Enthusiast
+Computer Science \| AI Engineer
